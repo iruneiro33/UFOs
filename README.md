@@ -10,5 +10,6 @@ The new function allows users to filter information by place, date, and UFO's sh
 
 ## Summary
 
-Recommendation
-It is recommended to make it possible to filter based on the period rather than just dates. Duration format in the table is not consistant. Some say "seconds" "minutes" and others say "sec" "mins". We should clean the data format by using ETL method.
+One drawback of this webpage is that user needs to guess the parameter to filter instead of knowing the existing data. One way to fix this would be to add a drop-down list including all the values that can be filtered, each list would need to update after a parameter has been selected. 
+
+A Recommendation is to make it possible to filter based on the period rather than just dates. Duration format in the table is not consistant. Some say "seconds" "minutes" and others say "sec" "mins". We should clean the data format by using ETL method.
